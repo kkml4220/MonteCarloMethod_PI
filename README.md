@@ -8,7 +8,7 @@
 
 ```bash
 $ gcc main.c
-$ a.out
+$ ./a.out
 ```
 
 ## 応用例
